@@ -34,7 +34,7 @@ export default function TabLayout (){
           )
         }}
       />
-            <Tabs.Screen
+      <Tabs.Screen
         name="contact"
         options={{
           title: "Contact",
